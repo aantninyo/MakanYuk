@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Prototype</string>
+
+    <string name="welcome">Welcome to ....</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About Us</string>
+    <string name="action_profile">Profile</string>
+    <string name="tombol">Next</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_about_us">Our Team</string>
+
+    <!-- SETTINGS -->
+    <string name="Jarak">Jarak</string>
+    <string name="Biaya">Biaya</string>
+    <string name="Quality">Quality</string>
+    <string name="Submit">Submit</string>
+    <string name="Reset">Reset</string>
+
+    <!-- RESTO PROFILE-->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu_view">menu_view</string>
+    <string name="name_resto">Restaurant 1</string>
+    <string name="street">JL xxxxxxxx</string>
+    <string name="nama_makanan">Makanan 1</string>
+    <string name="price">RP 100.000,-</string>
+    <string name="deskripsi">Mie Ayam dengan bakso</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_resto_prof">RestoProf</string>
+    <string name="title_activity_login">loginActivity</string>
+
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="title_activity_splash_screen">splashScreen</string>
+    <string name="loading">Please Wait...</string>
+    <string name="title_activity_usr_profile">usrProfile</string>
+
+</resources>

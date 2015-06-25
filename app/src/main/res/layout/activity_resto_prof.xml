@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/header">
+        <!--
+
+                <fragment
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:name="com.example.adityabintangp.restaurantprofile.RestaurantProfile"
+                    tools:layout="@layout/fragment_restaurant_profile" />
+        -->
+
+
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/footer">
+
+        <!--
+                <fragment
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:name="com.example.adityabintangp.restaurantprofile.ListOfMenu"
+                    tools:layout="@layout/fragment_list_of_menu" />
+
+        -->
+
+
+
+    </FrameLayout>
+
+
+
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.debbyrahardjo.prototype.about_us">
+
+    <TextView android:text="@string/title_activity_about_us" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:textSize="24dp" />
+
+    <TextView android:text="A11.2012.06590" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="50dp" />
+    <TextView android:text="M.R. Debby Rahardjo" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="70dp" />
+    <TextView android:text="debby.rahardjo@gmail.com" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="90dp" />
+    <TextView android:text="085740118768" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="110dp" />
+
+    <TextView android:text="A11.2012.06680" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="150dp"  android:layout_alignParentRight="true"        />
+    <TextView android:text="Aditya Bintang Pratama" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="170dp"  android:layout_alignParentRight="true"  />
+    <TextView android:text="limax_aditya@yahoo.co.id" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="190dp"  android:layout_alignParentRight="true"  />
+    <TextView android:text="081949928898" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="210dp" android:layout_alignParentRight="true"  />
+
+
+    <TextView android:text="A11.2012.07240" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="250dp" />
+    <TextView android:text="A. Khaerul Anwar" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="270dp" />
+    <TextView android:text="khaerul.anwar.07@gmail.com" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="290dp" />
+    <TextView android:text="085747747725" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_marginTop="310dp" />
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageDebby"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/debby"/>
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageAdit"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/adit"/>
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageAan"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="250dp"
+        android:src="@drawable/aan"/>
+</RelativeLayout>
